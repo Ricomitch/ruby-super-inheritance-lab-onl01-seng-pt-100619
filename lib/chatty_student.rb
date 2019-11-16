@@ -1,4 +1,4 @@
 class Student
-  def (hello)
+  def hello
     puts Hey there! I'm so excited to learn stuff.
   end
