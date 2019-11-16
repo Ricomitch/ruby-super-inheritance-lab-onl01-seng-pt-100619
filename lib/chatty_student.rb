@@ -1,6 +1,7 @@
 class ChattyStudent
 
-def
+def hello
+  super
 
 end
   
